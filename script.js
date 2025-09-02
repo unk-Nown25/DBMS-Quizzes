@@ -124,7 +124,7 @@ function selectAnswer(event) {
       btnm.textContent = "×";
       p.textContent = "unknown";
       spanper.textContent = "المطور";
-      img.src="./gmi/gam.jpg";
+      img.src="./gam.jpg";
       img.style.width = '50px';
       perdiv.classList.add("perdiv");
       pper.innerHTML = `السلام عليكم ... طيب كدي إستراحة قصيرة ونكمل ، إن شاء الله تكون ماشي كويس ... الأسئلة زاتو ساهلة بس في منهم دايرين تركيز , الإمتحانات دي قربت بعد دا والوقت بقى بسيط الاسبوع الجاي نازلين حاولوا انجزوا اكتر ، بس هينة إن شاء الله بفضل الله عدينا من زيها وهسي نتوكل على الله ونتفوق في دي<br><br>
